@@ -1423,7 +1423,10 @@ a:focus {
 }
 
 figure {
-    margin: 0
+    margin: 0;
+display:flex;
+justify-content: center;
+
 }
 
 img {
